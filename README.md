@@ -16,7 +16,8 @@ A Peruvian in Dublin | Candidate MBA in Cloud Computing | Business Strategy & pa
 - 🤖Bootmaker Chatbot  📈 Bloomberg
 
 My Latest Blogs:
-📰[Blogspot]( https://innovandobrigitte.blogspot.com/2015/06/definiendo-ideas.html#comment-form)
+📰[Blogspot ENG](https://medium.com/@bnumu67/cloud-computing-espresso-macchiato-for-non-engineers-f3a6a96e212c)
+📰[Blogspot ESP]( https://innovandobrigitte.blogspot.com/2015/06/definiendo-ideas.html#comment-form)
 🎙[Podcast](https://lnkd.in/e44cfdfS)
 
 Voluntering experience:
