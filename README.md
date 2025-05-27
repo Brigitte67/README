@@ -30,3 +30,4 @@ Voluntering experience:
 - Folkclore Dancer ir Saint Patrick Festival🍀 [PeruFusion](https://perufusionireland.com/2023/09/26/hello-world/)  
 
 💬 Ask me about  Business Strategy,Data Analysis, Career Development, Study&Work Abroad.
+Gmail: bnumu67@gmail.com 
