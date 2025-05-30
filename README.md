@@ -24,10 +24,12 @@ Voluntering experience:
 - 🎓Mentor Digital Talent Scholarship [EsHoy](https://www.linkedin.com/posts/brigitte-nunez-munoz_becatalentodigital-mentoriaprofesional-desarrolloprofesional-activity-6965456049466216448-6zHy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbediQBHtFoaD8Xa7YAGZvfRJcsA9ZeVjM)
 - 👩‍🏫School Teacher [Crea+](https://www.linkedin.com/posts/crea-per%C3%BA_historias-que-transforman-sent%C3%AD-que-no-activity-6676590347327549441-jZM-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbediQBHtFoaD8Xa7YAGZvfRJcsA9ZeVjM)
 
-😄 Fun Facts
+Learning Interested:
 - 🔭 I’m currently working on a portfolio website
-- 🧠 Learning UX Gaming
-- Folkclore Dancer ir Saint Patrick Festival🍀 [PeruFusion](https://perufusionireland.com/2023/09/26/hello-world/)  
+- 🧠 Learning AI in Cloud, Promp Engineering and Cloud Gaming UX.
+  
+😄 Fun Facts
+- Folkclore Dancer ir Saint Patrick Festival [PeruFusion](https://perufusionireland.com/2023/09/26/hello-world/)  
 
 💬 Ask me about  Business Strategy,Data Analysis, Career Development, Study&Work Abroad.
 Gmail: bnumu67@gmail.com 
