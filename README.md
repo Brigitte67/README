@@ -18,7 +18,7 @@ A Peruvian in Dublin | Candidate MBA in Cloud Computing | Business Strategy & pa
 My Latest Blogs:
 📰[Blogspot ENG](https://medium.com/@bnumu67/cloud-computing-espresso-macchiato-for-non-engineers-f3a6a96e212c)
 📰[Blogspot ESP]( https://innovandobrigitte.blogspot.com/2015/06/definiendo-ideas.html#comment-form)
-🎙[Podcast](https://lnkd.in/e44cfdfS)
+🎙[Podcast]([https://lnkd.in/e44cfdfS](https://www.youtube.com/watch?v=Cszn3oqW6ZE&feature=youtu.be)
 
 Voluntering experience:
 - 🎓Mentor Digital Talent Scholarship [EsHoy](https://www.linkedin.com/posts/brigitte-nunez-munoz_becatalentodigital-mentoriaprofesional-desarrolloprofesional-activity-6965456049466216448-6zHy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbediQBHtFoaD8Xa7YAGZvfRJcsA9ZeVjM)
