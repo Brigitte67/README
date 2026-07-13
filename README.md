@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Hi! Here Brigitte! Welcome to my GitHub Repository</strong></h1>
 <p align="center">
-A Peruvian in Dublin | Candidate MBA in Cloud Computing | Business Strategy & passionate about Innovation Tech, AI , Data & People Analytics
+A Peruvian in Dublin |  MBA First Class | HR & Business Strategy, passionate about Innovation Tech, AI , Data & People Analytics
 <p align="center">
  <a href="https://www.linkedin.com/in/brigitte-nunez-munoz/" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
@@ -25,11 +25,8 @@ Voluntering experience:
 - 👩‍🏫School Teacher [Crea+](https://www.linkedin.com/posts/crea-per%C3%BA_historias-que-transforman-sent%C3%AD-que-no-activity-6676590347327549441-jZM-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbediQBHtFoaD8Xa7YAGZvfRJcsA9ZeVjM)
 
 Learning Interested:
-- 🔭 I’m currently working on a portfolio website
+- 🔭 Visit my Website: https://brigittenunezsolutions.lovable.app/
 - 🧠 Learning AI in Cloud, Promp Engineering and Cloud Gaming UX.
   
-😄 Fun Facts
-- Folkclore Dancer ir Saint Patrick Festival [PeruFusion](https://perufusionireland.com/2023/09/26/hello-world/)  
-
 💬 Ask me about  Business Strategy,Data Analysis, Career Development, Study&Work Abroad.
 Gmail: bnumu67@gmail.com 
