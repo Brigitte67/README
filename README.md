@@ -11,7 +11,7 @@ A Peruvian in Dublin |  MBA First Class | HR & Business Strategy, passionate abo
    <a href="https://brigittenunezsolutions.lovable.app/">🌐 Visit My Website </a>
 </p>
 
-🔭 Portfolio in process
+🔭 [Portfolio] (https://brigittenunezsolutions.lovable.app/portfolio)
 
 🛠️ Languages and Tools
 - Power BI | SQL | Excel |Microsoft Suit
