@@ -11,14 +11,14 @@ A Peruvian in Dublin |  MBA First Class | HR & Business Strategy, passionate abo
    <a href="https://brigittenunezsolutions.lovable.app/">🌐 Visit My Website </a>
 </p>
 
-🔭 [Portfolio] (https://brigittenunezsolutions.lovable.app/portfolio)
+🔭 [Visit my Portfolio](https://brigittenunezsolutions.lovable.app/portfolio)
 
-🛠️ Languages and Tools
+🛠️ Tools
 - Power BI | SQL | Excel |Microsoft Suit
 - 🤖Bootmaker Chatbot  📈 Bloomberg
 
 Learning Interested:
-- 🧠 Learning AI in Cloud, Promp Engineering and Cloud Gaming UX.
+- 🧠 Innovation, People Analytics, AI, Prompt Engineering and Cloud Gaming UX.
 
 My Latest Blogs:
 📰[Blogspot ENG](https://medium.com/@bnumu67/cloud-computing-espresso-macchiato-for-non-engineers-f3a6a96e212c)
